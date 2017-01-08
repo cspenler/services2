@@ -8,9 +8,13 @@
     <artifactId>service</artifactId>
     <version>1.0.0-SNAPSHOT</version>
     <packaging>pom</packaging>
+
+    <properties>
+        <camel.version>2.18.1</camel.version>
+    </properties>
+
     <modules>
         <module>get-account</module>
     </modules>
-
 
 </project>
